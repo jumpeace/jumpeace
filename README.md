@@ -21,7 +21,7 @@
 - Native App ... C, OpenGL
 
 ## Skills I'm Learning
-- Frontend ... Gatsby.js
+- Frontend ... Next.js
 - Backend ... Gin, GraphQL
 
 ## Qualifications
