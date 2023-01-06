@@ -4,6 +4,7 @@
 |Category|Information|
 |:--|:--|
 |Nickname|Jumpeace|
+|Birthday|November 7th, 2002|
 |Hometown|Nagano, Japan|
 |School|National Institute of Technology, Nagano College|
 |Department|Department	Electronics and Computer Science|
