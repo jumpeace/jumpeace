@@ -20,9 +20,8 @@
 - Backend ... Java, My SQL
 - Native App ... C, OpenGL
 
-## Skills I'm Learning
-- Frontend ... Next.js
-- Backend ... Gin, GraphQL
+## Skills I want to learn
+- DApps ... Ethereum, Solidity, 
 
 ## Qualifications
 - TOEIC (760 points)
