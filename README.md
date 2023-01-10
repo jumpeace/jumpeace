@@ -21,7 +21,7 @@
 - Native App ... C, OpenGL
 
 ## Skills I want to learn
-- DApps ... Ethereum, Solidity, 
+- backend(web3) ... Ethereum, Solidity
 
 ## Qualifications
 - TOEIC (760 points)
