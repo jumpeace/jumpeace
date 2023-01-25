@@ -16,7 +16,7 @@
 - Tools ... VSCode, GitHub
 
 ## Skills
-- Frontend ... SCSS, Jquery, p5.js
+- Frontend ... SCSS, JQuery, p5.js
 - Backend ... Java, My SQL
 - Native App ... C, OpenGL
 
