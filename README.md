@@ -21,7 +21,9 @@
 - Native App ... C, OpenGL
 
 ## Skills I want to learn
-- backend(web3) ... Ethereum, Solidity
+- Frontend ... Next.js
+- Backend ... Go, GraphQL
+- DApps ... Solidity, NFT
 
 ## Qualifications
 - TOEIC (760 points)
