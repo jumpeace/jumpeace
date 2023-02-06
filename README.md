@@ -22,8 +22,9 @@
 
 ## Skills I want to learn
 - Frontend ... Next.js
-- Backend ... Go, GraphQL
-- DApps ... Solidity, NFT
+- Backend ... Gin
+- Cloud ... GCP, Firebase
+- AI ... Game AI
 
 ## Qualifications
 - TOEIC (760 points)
