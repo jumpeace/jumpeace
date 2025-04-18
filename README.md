@@ -24,10 +24,10 @@
 |2022年11月-12月|寮の点呼アプリ（Hack U Kosen 2022出場）|React.js, TailwindCSS, Web Socket, RestAPI|
 |2022年10月|文化祭ゲーム展示の展示システム|React.js, Node.js|
 |2022年4月-2023年1月|電子部品管理システム（高専卒業研究）|Django, Chrome拡張機能|
-|2021年12月|寮の点呼アプリ（高専の授業の課題）|Sinatra|
+|2021年12月|寮の点呼アプリ（高専の授業の課題）|Sinatra, sqlite3|
 |2021年10月|クラスのホームページ|React.js, TailwindCSS|
 |2021年7月|さくらクイズ（アイドルの誕生日を祝うために製作）|p5.js|
 
 ## ITスキル
-- 何も見なくても使える ... HTML, CSS, JavaScript, RestAPI, Python, マルチエージェント強化学習, 
-- ドキュメント見れば使える ... React.js, Next.js, p5.js, TailwindCSS, Ruby, Sinatra, Django, Pytorch
+- 何も見なくても使える ... HTML, CSS, JavaScript, RestAPI, Python, マルチエージェント強化学習
+- ドキュメント見れば使える ... React.js, Next.js, p5.js, TailwindCSS, Ruby, Sinatra, Django, Pytorch, sqlite3
