@@ -1,40 +1,33 @@
-# Profile
+# プロフィール
 
-## Overview
-|Category|Information|
+## 概要
+|項目|詳細|
 |:--|:--|
-|Nickname|Jumpeace|
-|School|Tokyo University of Agriculture and Technology|
-|Department|Department of Electrical Engineering and Computer Science|
-|Grade in school|4th grade|
+|氏名|川原 隼平|
+|学校|東京農工大学大学院|
+|所属|工学府 知能情報システム工学専攻|
+|学年|修士課程1年|
+|研究室|藤田桂英研究室|
 
-## Awards
-|Date|Contest Name|Award Type|
+## 受賞歴・資格
+|日にち|コンテスト名・資格名|詳細|
 |:--|:--|:--|
-|Dec, 2022|Hack U Kosen 2022|Grand prize|
-|Dec, 2020|Web×IoT Makers Challenge 2020-21|Special prize|
+|2023年12月|TOEIC Listening & Reading テスト|845点|
+|2022年12月|Hack U Kosen 2022|最優秀賞|
+|2022年7月|普通自動車第一種運転免許(AT限定)||
 
-## Qualifications
-|Date|Name|Score|
+## 開発経験
+|日にち|開発内容|使用技術|
 |:--|:--|:--|
-|Dec, 2023|TOEIC Listening & Reading Test|845 points|
-|Dec, 2021|TOEIC Listening & Reading Test|760 points|
-|Jul, 2021|TOEIC Listening & Reading Test|695 points|
+|2024年4月-2025年2月|大学卒業研究（企業との共同研究のため詳細は書きません）|PyTorch, マルチエージェント強化学習|
+|2023年10月|ポートフォリオ|Next.js, TailwindCSS|
+|2022年11月-12月|寮の点呼アプリ（Hack U Kosen 2022出場）|React.js, TailwindCSS, Web Socket, RestAPI|
+|2022年10月|文化祭ゲーム展示の展示システム|React.js, Node.js|
+|2022年4月-2023年1月|電子部品管理システム（高専卒業研究）|Django, Chrome拡張機能|
+|2021年12月|寮の点呼アプリ（高専の授業の課題）|Sinatra|
+|2021年10月|クラスのホームページ|React.js, TailwindCSS|
+|2021年7月|さくらクイズ（アイドルの誕生日を祝うために製作）|p5.js|
 
-## Main Skills
-- Frontend ... HTML, CSS, JavaScript, Tailwind CSS, React
-- Backend ... Python, Ruby, Sinatra, Sqlite3
-- Tools ... VSCode, GitHub
-
-## Skills
-- Frontend ... SCSS, JQuery, p5.js
-- Backend ... Django，Java, My SQL
-- Native App ... C, OpenGL
-
-## Skills I want to learn
-- Frontend ... Next.js, TypeScript
-- Backend ... Go, Gin
-- Cloud ... GCP, Firebase
-
-## Socials
-- Qiita ... [@Jumpeace](https://qiita.com/Jumpeace)
+## ITスキル
+- 何も見なくても使える ... HTML, CSS, JavaScript, RestAPI, Python, マルチエージェント強化学習, 
+- ドキュメント見れば使える ... React.js, Next.js, p5.js, TailwindCSS, Ruby, Sinatra, Django, Pytorch
