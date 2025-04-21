@@ -14,7 +14,6 @@
 |2024年4月-2025年2月|倉庫での運搬作業の経路探索の自動化（農工大での卒業研究）|PyTorch, QMIX|
 |2023年10月|ポートフォリオ|Next.js, TailwindCSS|
 |2022年11月-12月|寮の点呼システム（Hack U Kosen 2022出場）|React.js, TailwindCSS, Web Socket, RestAPI|
-|2022年10月|文化祭ゲーム展示の展示システム|React.js, Node.js|
 |2022年4月-2023年1月|電子部品管理システム（長野高専での卒業研究）|Django, sqlite3, Chrome拡張機能|
 |2021年12月|寮の点呼システム（高専の授業の課題）|Sinatra, sqlite3|
 |2021年7月|遠藤さくらクイズ（アイドルの誕生日を祝うために有志で製作）|p5.js|
