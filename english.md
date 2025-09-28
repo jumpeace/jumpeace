@@ -14,10 +14,20 @@ Specializing mainly **Web App Development** and **Multi-Agent Pathfinding with R
 ## WORK EXPERIENCE　
 ### Collaborative Research Project (July 2024 - present)
 Optimizing robot logistics in a warehouse where robots and workers coexist.
+- Depeloping a route optimization algorithm using a multi-agent system.
+- Note: Due to a non-disclosure agreement, I cannot disclose specific project details.
 
-*Due to a confidentiality agreement with our research partners, I cannot provide any further details. 
+## PROJECTS / DEVELOPMENT　
+### Rakuten Commerce & Marketing Company - Application Engineer Workshop (August 26 - 29, 2025)
+articipated in the Summer Camp for New Prototype Development, collaborating with a team from brainstorming to development.
+- Contributed significantly to the team's output by handling front-end development using Next.js.
+- Note: Due to a non-disclosure agreement, I cannot disclose specific project details.
 
-## PROJECTS / DEVELOPMENT　　　　　　　　　　　　　　　　　　　　　　　　　　 
+### Accenture Japan Ltd. - Solution Engineer Workshop  (August 26 - 29, 2025)
+Joined the "Wakontisaijuku" Engineer Program, collaborating with a team from requirements definition to development.
+- Contributed significantly to the team's results by applying my logical thinking and software development skills.
+- Note: Due to a non-disclosure agreement, I cannot disclose specific project details.
+
 ### Automated Negotiating Agents Competition (May 2025 - June 2025)
 Developed negotiation strategy with multiple agents in multiple environments
 - Predicted the other agent's behavior (aggressive or yielding) by analyzing their past negotiation offers.
@@ -48,3 +58,15 @@ Multi-Agent Pathfinding / Reinforcement Learning
 ## INTERNATIONAL EXPERIENCE / QUALIFICATION 　　　　　　　 　　　　　　　　　　　
 - 2-week cultural exchange program in University of Indonesia (February 2024)
 - TOEIC Listening & Reading Test 845 (December 2023)
+
+## VOLUNTEERS
+### IAESTE JAPAN Tokyo Local Student Committee (May 2023 - present)
+University student volunteers supporting IAESTE JAPAN 
+- Led a department focused on recruiting new members, building a cohesive community through various events
+- Supported IAESTE interns from overseas to get settled in Japan.
+- Organized information sessions to advertise IAESTE internship to university students in Japan.
+
+### Volunteers, Flood Recovery (October 2019)
+Participation in community-wide flood recovery efforts
+- Removed heavy mud and debris from flood-damaged homes.
+- Supported cleanup household, by sorting and salvaging furniture and personal items.
