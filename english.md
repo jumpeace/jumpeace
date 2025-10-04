@@ -39,19 +39,22 @@ Collaborated with a team to develop a dormitory rollcall system
 - Developed a WebSocket-based real-time communication mechanism for a real-time facial tracking.
 
 ### Graduation Project at NITNC (April 2022 - January 2023)
-A project to develop the electronic component management system for my laboratory
+Developed the electronic component management system for my laboratory
 - Developed an inventory management feature to track components for each part type and specification.
 - Developed an automated purchase workflow to easily add inventory and generate official school purchase documents.
 
+### KOTOHIRA KOGYO Co., Ltd. Short-Term Internship (August 2021 - September 2021)
+Worked as a company system engineer and Developed Product Rental System in two weeks.
+- Experienced series of system development process, from requirements definition to design and development.
+- Developed a Windows application using C# and Windows Form
+
 ## IT SKILLS　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ### Programming Language
-JavaScript / TypeScript / Python / Ruby
+JavaScript / TypeScript / Python / Ruby / C++ / C
 ### Web Framework　　  	
-React / Next.js / Django / Sinatra¥
-### Database		
-MySQL / SQLite / Firestore
-### Cloud Technology	
-Firebase (GCP) / Cloudflare
+React / Next.js / Django / Sinatra
+### Database / Infra
+Firebase / MySQL / SQLite
 ### Artificial Intelligence	
 Multi-Agent Pathfinding / Reinforcement Learning
 
